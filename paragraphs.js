@@ -1,0 +1,22 @@
+const paragraphs = [
+    "In modern times the first scrawny kitten is, in its own way, an input. An ostrich is the beginner of a roast.",
+    "In ancient times the legs could be said to resemble stroppy vegetables. We can assume that any instance of a rake is a beetle.",
+    "What we don’t know for sure is whether or not a pig off the coast is assumed to be a hardback pilot.",
+    "Their politician was, in this moment, a notour paperback. The first armless grouse is, in its own way, a gear.",
+    "An aunt is a bassoon from the right perspective. As far as we can estimate, some posit the melic analyzer to be less pensive.",
+    "A baby is a shingle from the right perspective. Before defenses, collars were only operations.",
+    "A broadband jam is a network of the mind. One cannot separate chickens from glowing periods.",
+    "In recent years, some teeming herons are thought of simply as numbers. Nowhere is it disputed that an unlaid breath is an oyster from the right perspective.",
+    "A cough is a talk from the right perspective. A designed tractor's tray comes with it the thought that the soup is an apology.",
+    "Authors often misinterpret the flag as a wayless trigonometry, when in actuality it feels more like a bousy pencil.",
+    "This could be, or perhaps few can name a pasteboard quiver that isn’t a brittle alligator.",
+    "The vision of an attempt becomes a lawny output. Dibbles are mis womens.",
+    "A tramp is a siamese from the right perspective. We know that a flitting monkey’s jaw comes with the thought that the frog is a puffin.",
+    "The frosts could be said to resemble backstage chards. One cannot separate colleges from pinkish bacons.",
+    "Far from the truth, an ajar reminder without catamarans is truly a foundation of smeary semicircles.",
+    "The hefty opinion reveals itself as a sterile peer-to-peer to those who look.",
+    "If this was somewhat unclear, a friend is a fridge from the right perspective.",
+    "An upset carriage is a stitch of noise. A repentant discussion’s nest comes with it the thought that the condemned syrup is a wish.",
+    "Those cowbells are nothing more than elements. This could be, or perhaps before stockings, thoughts were only dips.",
+    "A spork under the bed dreams of freedom. The calculator beside it weeps binary tears every morning."
+];
